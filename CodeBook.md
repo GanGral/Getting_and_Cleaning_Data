@@ -21,7 +21,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 #####Mean value(mean()), Standard deviation(std()) and Weighted average of the frequency components to obtain a mean frequency(meanFreq()) is displayed here for each of participants.
 
-List of measurments check below:
+####List of measurments check below:
 
 #####tBodyAcc-mean()-X
 #####tBodyAcc-mean()-Y
